@@ -1,0 +1,10 @@
+HTML-its only provide structure..
+css- its provide best look out..
+properties: values.. px, percentage..
+
+
+how to implement css..??
+3 ways..
+inline..
+internal..
+external..
